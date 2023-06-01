@@ -1,3 +1,3 @@
-## InsightDash webApp
-### This webappp is create using streamlit 
-### In this app i seperated categorical and numerical columns and display plots accordingly.. it is easy to use and has a good UI
+## InsightDash webApp.
+### This webappp is created using streamlit .
+### This web app uses pandas , numpy and other data analysis related libraries.
